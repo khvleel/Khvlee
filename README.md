@@ -1,7 +1,7 @@
 # Ibrahim Yusuf 
 
 
-Working Experience
+# Working Experience
 Intern, Kaduna Polytechnic, Kaduna
 Networking / Basic Web Design
 Gained hands-on experience in networking and basic web design.
@@ -15,12 +15,12 @@ Reviewed and edited copy for accuracy and grammatical errors.
 
 
 
-Skills
+# Skills
 Technical Skills
 Microsoft Office Suite: Proficient in Word, Excel, PowerPoint, and other Office applications.
 Copywriting: Strong writing skills with attention to detail in grammar and style.
 Data Management: Ability to sort, organize, and manage files and spreadsheets.
-Soft Skills
+# Soft Skills
 Team Collaboration: Experience working effectively within teams to achieve common goals.
 Time Management: Ability to prioritize tasks and manage time efficiently in a busy environment.
 Problem Solving: Strong analytical skills to identify issues and develop solutions.
@@ -29,7 +29,7 @@ Communication: Effective verbal and written communication skills, adaptable to d
 
 
 
-Hobbies and Interests
+# Hobbies and Interests
 Reading
 Travelling
 Research
