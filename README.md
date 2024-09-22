@@ -1,4 +1,6 @@
 # Ibrahim Yusuf 
+
+
 Working Experience
 Intern, Kaduna Polytechnic, Kaduna
 Networking / Basic Web Design
@@ -10,6 +12,9 @@ Copywriter, Telus International (Remote)
 Transcribed text from images to Word documents.
 Reviewed and edited copy for accuracy and grammatical errors.
 
+
+
+
 Skills
 Technical Skills
 Microsoft Office Suite: Proficient in Word, Excel, PowerPoint, and other Office applications.
@@ -20,6 +25,9 @@ Team Collaboration: Experience working effectively within teams to achieve commo
 Time Management: Ability to prioritize tasks and manage time efficiently in a busy environment.
 Problem Solving: Strong analytical skills to identify issues and develop solutions.
 Communication: Effective verbal and written communication skills, adaptable to different audiences.
+
+
+
 
 Hobbies and Interests
 Reading
