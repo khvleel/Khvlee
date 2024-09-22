@@ -1,4 +1,16 @@
 # Ibrahim Yusuf 
+# Personal Profile
+Date of Birth: 24th August 1999.
+Nationality: Nigerian.
+Sex: Male.
+
+# Education
+B.Sc. Computer Science
+Gombe State University, 2018 – 2024.
+
+# Certificates
+Certificate in Computer Operating, Afrihub.
+
 
 
 # Working Experience
