@@ -35,3 +35,8 @@ Travelling
 Research
 Football
 Video games
+
+
+# Socials
+WhatsApp: 08108738825
+Instagram: thvt_khvlee
